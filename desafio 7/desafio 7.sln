@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio 7", "desafio 7\desafio 7.csproj", "{D21186F6-A4A2-4E64-B3A7-D680628E7822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio 6", "desafio 6\desafio 6.csproj", "{F7367785-DBBD-4234-BD8D-FA055343276D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio 4", "desafio 4\desafio 4.csproj", "{F282B2EB-DD50-45DC-987D-F852FC23E9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21186F6-A4A2-4E64-B3A7-D680628E7822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21186F6-A4A2-4E64-B3A7-D680628E7822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21186F6-A4A2-4E64-B3A7-D680628E7822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21186F6-A4A2-4E64-B3A7-D680628E7822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7367785-DBBD-4234-BD8D-FA055343276D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7367785-DBBD-4234-BD8D-FA055343276D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7367785-DBBD-4234-BD8D-FA055343276D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7367785-DBBD-4234-BD8D-FA055343276D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F282B2EB-DD50-45DC-987D-F852FC23E9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F282B2EB-DD50-45DC-987D-F852FC23E9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F282B2EB-DD50-45DC-987D-F852FC23E9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F282B2EB-DD50-45DC-987D-F852FC23E9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F5BB2F-5568-4D2D-AB8E-A16B6341778A}
+	EndGlobalSection
+EndGlobal

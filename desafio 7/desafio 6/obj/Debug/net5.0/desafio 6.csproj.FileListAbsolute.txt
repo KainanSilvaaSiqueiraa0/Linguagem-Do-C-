@@ -1,0 +1,16 @@
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\bin\Debug\net5.0\desafio 6.exe
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\bin\Debug\net5.0\desafio 6.deps.json
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\bin\Debug\net5.0\desafio 6.runtimeconfig.json
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\bin\Debug\net5.0\desafio 6.runtimeconfig.dev.json
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\bin\Debug\net5.0\desafio 6.dll
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\bin\Debug\net5.0\ref\desafio 6.dll
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\bin\Debug\net5.0\desafio 6.pdb
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.csproj.AssemblyReference.cache
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.AssemblyInfoInputs.cache
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.AssemblyInfo.cs
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.dll
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\ref\desafio 6.dll
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.pdb
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 6\obj\Debug\net5.0\desafio 6.genruntimeconfig.cache
