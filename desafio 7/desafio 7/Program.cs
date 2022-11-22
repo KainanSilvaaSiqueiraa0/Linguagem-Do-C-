@@ -11,13 +11,13 @@ namespace desafio_7
             Console.WriteLine("digite o primeiro valor");
             valor1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("digite o primeiro valor");
+            Console.WriteLine("digite o segundo valor");
             valor2 = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("digite o primeiro valor");
+            Console.WriteLine("digite o terceiro valor");
             valor3 = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("digite o primeiro valor");
+            Console.WriteLine("digite o Quarto valor");
             valor4 = Convert.ToDouble(Console.ReadLine());
 
             soma = valor1 + valor2 + valor3 + valor4;

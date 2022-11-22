@@ -1,0 +1,5 @@
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 4\obj\Debug\net5.0\desafio 4.csproj.AssemblyReference.cache
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 4\obj\Debug\net5.0\desafio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 4\obj\Debug\net5.0\desafio 4.AssemblyInfoInputs.cache
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 4\obj\Debug\net5.0\desafio 4.AssemblyInfo.cs
+C:\Users\android\Documents\KAINAN c#\Linguagem-Do-C-\desafio 7\desafio 4\obj\Debug\net5.0\desafio 4.csproj.CoreCompileInputs.cache
