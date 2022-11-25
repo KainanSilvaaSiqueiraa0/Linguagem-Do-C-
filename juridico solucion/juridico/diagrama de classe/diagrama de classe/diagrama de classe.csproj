@@ -6,4 +6,8 @@
     <RootNamespace>diagrama_de_classe</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\android\Downloads\CONTA DEPOSITO\Conta.cs" Link="Conta.cs" />
+  </ItemGroup>
+
 </Project>
